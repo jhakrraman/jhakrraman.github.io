@@ -1,7 +1,7 @@
 ---
 title: "Research Associate"
 collection: portfolio
-venue: "IIT Madras"
+venue: "Computational Imaging Lab, IIT Madras"
 date1: 08/2023
 date2: 06/2024
 location: "Chennai, India"
