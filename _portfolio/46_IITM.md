@@ -1,6 +1,6 @@
 ---
 title: "Research Associate"
-collection: teaching
+collection: portfolio
 venue: "IIT Madras"
 date1: 08/2023
 date2: Present
