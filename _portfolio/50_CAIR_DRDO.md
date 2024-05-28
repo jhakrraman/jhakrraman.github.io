@@ -1,6 +1,6 @@
 ---
 title: "Research Intern"
-collection: teaching
+collection: portfolio
 venue: "Centre of Artificial Intelligence and Robotics, DRDO"
 date1: 07/2021
 date2: 12/2021
