@@ -7,7 +7,7 @@ date2: 06/2022
 location: "Hyderabad, India"
 ---
 
-<img src='/images/CVIT.jpg' width=300 height=400>
+<img src='/images/iiith.jpg' width=300 height=400>
 <img src='/images/IIITH.png' width=300 height=400><br/>
 >Worked as an Applied Research Fellow at the Centre of Visual Information Technology Lab, IIIT Hyderabad, where I was guided by Prof. Ravi Kiran Sarvadevabhatla and Prof. C V Javahar.    
 >Developed a model to detect vehicle lights and then classifying the status of the light on Indian Driving Dataset.    
