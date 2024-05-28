@@ -1,20 +1,82 @@
+
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
+# `jekyll serve -l -H localhost`. If you change this file, please restart the 
+# server process.
 
-# Site Settings
+# Basic Site Settings
 locale                   : "en-US"
 title                    : "Raman Jha"
-icon                     : site_logo.jpg
-title_separator          : ""
-name                     : 
-description              : &description "Research Associate at IIT Madras"
-url                      : https://jhakrraman.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+title_separator          : "-"
+name                     : &name ""
+description              : "Research Associate at IIT Madras"
+url                      : "https://jhakrraman.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jhakrraman/jhakrraman.github.io"
+
+# Site Author - The following control what appear as part of the author content on the side bar.
+#               If a field is blank the icon and link will not appear, otherwise it will be shown.
+#               Additional customization can be done by editing /_includes/author-profile.html
+author:
+  # Biographic information
+  avatar           : "profile.png"
+  name             : "Raman Jha"
+  pronouns         :   
+  bio              : "Researcher"
+  location         : "Chennai, India"
+  employer         : ""
+  uri              : # URL
+  email            : "jharaman400@gmail.com" 
+
+  # Academic websites
+  arxiv            : # URL - Update with the correct link to your profile
+  googlescholar    : "https://scholar.google.com/citations?user=fhHXxfMAAAAJ&hl=en"
+  impactstory      : # URL
+  orcid            : "https://orcid.org/0000-0001-8392-8792"
+  semantic         : # URL
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  researchgate     : # URL
+
+  # Repositories and software development
+  bitbucket        : # Username - Update with your username on the site
+  codepen          : # Username
+  dribbble         : # Username
+  github           : "jhakrraman"
+  kaggle           : "jhakrraman"  
+  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+
+  # Social media
+  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  facebook         : # Username
+  flickr           : # Username
+  foursquare       : # Username
+  goodreads        : # Username
+  google_plus      : # Username
+  keybase          : # Username
+  instagram        : # Username
+  lastfm           : # Username
+  linkedin         : "jhakrraman"
+  mastodon         : # URL
+  medium           : "jhakrraman"
+  pinterest        : # Username
+  soundcloud       : # Username
+  steam            : # Username
+  telegram         : # URL
+  tumblr           : # Username
+  twitter          : "jhakrraman"
+  vine             : # Username
+  weibo            : # Username
+  wikipedia        : # Username
+  xing             : # Username
+  youtube          : # Username
+  zhihu            : # URL
+
+
+# Site Settings
+teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -47,13 +109,16 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
+  hide                   : false     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
+
 
 # SEO Related
 google_site_verification :
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
+
 
 # Social Sharing
 twitter:
@@ -73,49 +138,9 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
     tracking_id          :
-
-
-# Site Author
-author:
-  name             : "Raman Jha"
-  avatar           : "profile.jpg"
-  bio              : "Researcher"
-  location         : "Chennai, India"
-  employer         : 
-  pubmed           : 
-  googlescholar          : "https://scholar.google.com/citations?user=fhHXxfMAAAAJ&hl=en"
-  email            : "jharaman400@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  quora            :  "Raman-Jha-39"
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "jhakrraman"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         : "jhakrraman"
-  orcid            : "https://orcid.org/0000-0001-8392-8792"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : "jhakrraman"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
 
 
 # Reading Files
@@ -245,6 +270,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+
 
 # Sass/SCSS
 sass:
