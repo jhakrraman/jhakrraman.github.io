@@ -13,10 +13,4 @@ main:
     url: /teaching/    
     
   - title: "CV"
-    url: /cv/
-
-<!--  - title: "Talks"
-    url: /talks/
-    
-  - title: "Guide"
-    url: /markdown/  -->  
+    url: /cv/ 
