@@ -7,16 +7,16 @@ main:
     url: /publications/
 
   - title: "Personal Projects"
-    url: /personal_projects/
-    
-<!--  - title: "Talks"
-    url: /talks/ -->   
+    url: /year-archive/ 
 
   - title: "Teaching"
     url: /teaching/    
     
   - title: "CV"
     url: /cv/
+
+<!--  - title: "Talks"
+    url: /talks/
     
   - title: "Guide"
-    url: /markdown/
+    url: /markdown/  -->  
