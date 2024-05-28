@@ -1,6 +1,6 @@
 ---
 title: "Applied Research Fellow"
-collection: teaching
+collection: portfolio
 venue: "Centre of Visual Information Technology Lab, IIIT Hyderabad"
 date1: 01/2022
 date2: 06/2022
