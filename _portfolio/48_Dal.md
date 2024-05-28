@@ -1,6 +1,6 @@
 ---
 title: "Mitacs Globalink Research Intern"
-collection: teaching
+collection: portfolio
 venue: "Dalhousie University"
 date1: 07/2022
 date2: 10/2022
