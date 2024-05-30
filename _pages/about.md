@@ -18,7 +18,7 @@ My research interest is in **Autonomous Robotics**, which are built for interact
 
 To achieve this goal, I am highly passionate about working on problems related to **vision-based autonomous decision-making, multi-sensor integration, manipulation, navigation and path planning, motion control**, and **robot learning and adaptation**. I have previously worked on problems related to object and pedestrian detection, path prediction, voice cloning, face dubbing, image enhancement, and image restoration.  
 
-I am actively looking for research opportunities and collaborations. Please feel free to contact me for any research opportunity in **Autonomous Robotics**, and **Computer Vision**.
+I am actively looking for research opportunities and collaborations. Please feel free to contact me for any research opportunity in **autonomous robotics**, and **computer vision**.
 
 This Flag counter seemed fun to me. It shows flag counts from January 2024.    
 <a href="https://info.flagcounter.com/FhE2"><img src="https://s01.flagcounter.com/count2/FhE2/bg_FFFFFF/txt_000000/border_CCCCCC/columns_5/maxflags_50/viewers_0/labels_0/pageviews_1/flags_1/percent_0/" alt="Free counters!" border="0"></a>
