@@ -14,14 +14,13 @@ I have worked as an Applied Research Fellow at the [Centre for Visual Informatio
 
 # Research Interests
 
-**Computer Vision:** Object Detection, Action recognition, Pose Estimation, Object Reconstruction.   
-**Image Understanding:** Image Classification, Image restoration and enhancement, Image Segmentation, and Edge Detection.    
-**Video Understanding:** Object identification, Object Tracking, Motion Estimation, Video Analysis.   
-**Others:** Supervised Learning, Self-Supervised Learning, Reinforcement Learning, and Robotics.
+My research interest is in **Autonomous Robotics**, which are built for interactive decision-making, manipulation, and real-world perception. I want to work at the intersection of **robotics, computer vision**, and **reinforcement learning**.
 
-I am actively looking for **research opportunities and collaborations**. Please feel free to contact me for any research opportunity in **Computer Vision and Deep Learning**.
+To achieve this goal, I am highly passionate about working on problems related to **vision-based autonomous decision-making, multi-sensor integration, manipulation, navigation and path planning, motion control**, and **robot learning and adaptation**. I have previously worked on problems related to object and pedestrian detection, path prediction, voice cloning, face dubbing, image enhancement, and image restoration.  
 
-This Flag counter seemed fun to me. It shows flag counts from November 2022.    
+I am actively looking for **research opportunities and collaborations**. Please feel free to contact me for any research opportunity in **Autonomous Robotics, and Vision**.
+
+This Flag counter seemed fun to me. It shows flag counts from January 2024.    
 <a href="https://info.flagcounter.com/FhE2"><img src="https://s01.flagcounter.com/count2/FhE2/bg_FFFFFF/txt_000000/border_CCCCCC/columns_5/maxflags_50/viewers_0/labels_0/pageviews_1/flags_1/percent_0/" alt="Free counters!" border="0"></a>
 
-Last updated: August'23
+Last updated: May'24
