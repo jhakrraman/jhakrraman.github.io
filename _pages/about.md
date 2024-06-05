@@ -18,7 +18,7 @@ Previously, in my final semester, I worked as a Founding Machine Learning Intern
 
 My research interest is in **Autonomous Robotics**, which are built for interactive decision-making, manipulation, and real-world perception. I want to work at the intersection of **robotics, computer vision**, and **reinforcement learning**.
 
-To achieve this goal, I am highly passionate about working on problems related to **vision-based autonomous decision-making, multi-sensor integration, manipulation, robot learning and adaptation, navigation and path planning**, and **motion control**. I have previously worked on problems related to object and pedestrian detection, path prediction, voice cloning, face dubbing, image enhancement, and image restoration.  
+To achieve this goal, I am highly passionate about working on problems related to **vision-based autonomous decision-making, learning from multi-sensor integration, manipulation, robot learning and adaptation, navigation and path planning**, and **motion control**. I have previously worked on problems related to object and pedestrian detection, path prediction, voice cloning, face dubbing, image enhancement, and image restoration.  
 
 I am actively looking for research opportunities and collaborations. Please feel free to contact me for any research opportunity in **autonomous robotics**, and **computer vision**.
 
