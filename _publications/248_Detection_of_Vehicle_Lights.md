@@ -6,6 +6,6 @@ date: 2023-10-06
 venue: 'International Conference on Advanced Computing Technologies and Applications (ICACTA)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10392419'
 code: 'https://github.com/jhakrraman/Detection-of-vehicle-lights'
-web: '48_Emotion_detector.md'
+web: 'https://sites.google.com/view/thermalcrossnetbmvc2024/home'
 citation: 'Raman K Jha'
 ---
