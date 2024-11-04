@@ -6,5 +6,8 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Teaching"
+    url: /teaching/
+
   - title: "CV"
     url: /files/raman_cv.pdf
