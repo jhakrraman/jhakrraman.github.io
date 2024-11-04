@@ -2,7 +2,7 @@
 title: "EE5178, Modern Computer Vision"
 type: "Graduate Course"
 collection: teaching
-permalink: /teaching/
+permalink: /teaching/mcv_iitm
 venue: "Indian Institute of Technology, Madras"
 date1: 2024-01-25 
 date2: 2024-05-20
