@@ -39,7 +39,7 @@
     {% endif %}
 
         {% if post.collection == 'teaching' %}
-          <p>{{ post.type}}, {{post.venue}}, <i>{{post.location}}</i> [{{ post.date1 | date1: "%B %d, %Y"}} - {{ post.date2 | date2: "%B %d, %Y"}}]</p>
+          <p>{{ post.type}}, {{post.venue}}, {{post.location}} [{{ post.date1 | date1: "%B %d, %Y"}} - {{ post.date2 | date2: "%B %d, %Y"}}]</p>
         {% elsif post.collection == 'portfolio' %}
           <p>{{ post.venue }}, {{post.location}} [{{ post.date1 | date1: "%B %d, %Y"}} - {{ post.date2 | date2: "%B %d, %Y"}}]</p>
         {% elsif post.collection == 'publications' %}
