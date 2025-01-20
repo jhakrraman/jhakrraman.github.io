@@ -14,11 +14,11 @@ Before joining NYU, I completed my Research Associate work at the [Computational
 
 # Research Interests
 
-My research interests center around **Robot Perception and Manipulation**, specifically in developing autonomous robotic systems capable of interactive decision-making and complex real-world perception. I aim to work at the intersection of **robotics, computer vision**, and **reinforcement learning** to advance the capabilities of robots in dynamic, unstructured environments. 
+My research interests center around **Robot Perception and Learning**, specifically in developing autonomous robotic systems capable of interactive decision-making and complex real-world perception. I aim to work at the intersection of **robotics, computer vision**, and **reinforcement learning** to advance the capabilities of robots in dynamic, unstructured environments. 
 
-Driven by a passion for **vision-based autonomous decision-making**, I focus on challenges like **multi-sensor integration, and perception, adaptive robot learning, navigation** and **path planning, dexterous manipulation**, and **motion control**. 
+Driven by a passion for **vision-based perception**, and **interactive decision-making**, I focus on challenges in **perception, adaptive robot learning, navigation, multi robot systems, autonomous driving** and **path planning**.
 
-I am actively looking for research opportunities and collaborations. Please feel free to contact me for any research opportunity in **autonomous robotics**, and **computer vision**.
+I am actively looking for research opportunities and collaborations. Please feel free to contact me for any research opportunity in **Robot Perception, and Learning**.
 
 This Flag counter seemed fun to me. It shows flag counts from January 2024.    
 <a href="https://info.flagcounter.com/FhE2"><img src="https://s01.flagcounter.com/count2/FhE2/bg_FFFFFF/txt_000000/border_CCCCCC/columns_5/maxflags_50/viewers_0/labels_0/pageviews_1/flags_1/percent_0/" alt="Free counters!" border="0"></a>
