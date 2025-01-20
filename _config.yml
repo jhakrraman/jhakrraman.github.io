@@ -22,7 +22,7 @@ repository               : "jhakrraman/jhakrraman.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile.jpeg"
   name             : "Raman Jha"
   pronouns         :   
   bio              : "Researcher"
