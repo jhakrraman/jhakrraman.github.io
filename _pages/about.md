@@ -14,7 +14,7 @@ Before joining NYU, I completed my Research Associate work at the [Computational
 
 # Research Interests
 
-My research interests center around **Robot Perception and Learning**, specifically in developing autonomous robotic systems capable of interactive decision-making and complex real-world perception. I aim to work at the intersection of **robotics, computer vision**, and **reinforcement learning** to advance the capabilities of robots in dynamic, unstructured environments. 
+My research interests center around **Robot Perception and Learning**, specifically in developing autonomous robotic systems capable of complex real-world perception, and interactive decision-making. I aim to work at the intersection of **robotics, computer vision**, and **reinforcement learning** to advance the capabilities of robots in dynamic, unstructured environments. 
 
 Driven by a passion for **vision-based perception**, and **interactive decision-making**, I focus on challenges in **perception, adaptive robot learning, navigation, multi robot systems, autonomous driving** and **path planning**.
 
