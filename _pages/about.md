@@ -21,6 +21,12 @@ Driven by a passion for **vision-based perception**, and **interactive decision-
 I am actively looking for research opportunities and collaborations. Please feel free to contact me for any research opportunity in **Robot Perception, and Learning**.
 
 This Flag counter seemed fun to me. It shows flag counts from January 2024.    
-<a href="https://info.flagcounter.com/FhE2"><img src="https://s01.flagcounter.com/count2/FhE2/bg_FFFFFF/txt_000000/border_CCCCCC/columns_5/maxflags_50/viewers_0/labels_0/pageviews_1/flags_1/percent_0/" alt="Free counters!" border="0"></a>
+
+<div>
+  <a href="https://info.flagcounter.com/FhE2">
+    <img src="https://s01.flagcounter.com/count2/FhE2/bg_FFFFFF/txt_000000/border_CCCCCC/columns_5/maxflags_50/viewers_0/labels_0/pageviews_1/flags_1/percent_0/" alt="Free counters!" border="0">
+  </a>
+</div>
+
 
 Last updated: Oct 2024
