@@ -2,7 +2,7 @@
 title: "CBE-UY 2233, Chemical Engineering Computation"
 type: "Undergraduate Course"
 collection: teaching
-permalink: /teaching/cec
+permalink: /teaching/cec_nyu
 venue: "New York University"
 date1: 2025-01-23 
 date2: 2025-05-15
