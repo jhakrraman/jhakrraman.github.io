@@ -2,8 +2,8 @@
 title: "Founding Machine Learning Intern"
 collection: portfolio
 venue: "Seisei.ai"
-date1: 03/2022
-date2: 06/2022
+date1: 04/2023
+date2: 06/2023
 location: "Jaipur, India"
 ---
  
