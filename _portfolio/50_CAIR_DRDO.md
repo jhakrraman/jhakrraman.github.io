@@ -3,7 +3,6 @@ title: "Research Intern"
 collection: portfolio
 venue: "Centre of Artificial Intelligence and Robotics, DRDO"
 excerpt: "The work was related to pedestrian detection and path prediction for autonomous vehicles. <br/> <img src="/images/CAIR.jpg" width="300" height="400" />"
-
 date1: 07/2021
 date2: 12/2021
 location: "Bengaluru, India"
