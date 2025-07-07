@@ -11,5 +11,5 @@ location: "New York, USA"
 >Mentored by Yang Zhou and supervised by Prof. Giuseppe Loianno for the adaptive keyframe selection.      
 >Worked on adaptive keyframe selection for scene reconstruction in the dynamic environment.   
 >A transformer-based architecture to directly regress point maps from images to predict the scene in an unstructured environment.  
->It uses error-based metric, and momentum-based keyframe control for selection of keyframes for scene reconstruction.
+>It uses error-based metric and momentum-based keyframe control for the selection of keyframes for scene reconstruction.
 >It decreased the required keyframes for reconstruction while enhancing the system’s reconstruction performance.
