@@ -6,7 +6,7 @@ date1: 04/2023
 date2: 06/2023
 location: "Jaipur, India"
 ---
- 
+
 <img src='/images/seisei_ai.jpg' width=300 height=400><br/>
 
 >Worked on the transformation of videos with the help of Generative AI technologies.        
