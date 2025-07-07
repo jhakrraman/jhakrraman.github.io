@@ -7,7 +7,7 @@ date1: 07/2021
 date2: 12/2021
 location: "Bengaluru, India"
 ---
-
+ 
 >Worked as a Research Intern at the Centre of Artificial Intelligence and Robotics Lab, DRDO.    
 >Worked on a project to detect pedestrians and then predict their trajectories from the JAAD and PIE datasets.    
 >Used Pedestrian for the detection of pedestrians for both first-person view (FPV) and bird's-eye view (BEV) scenarios.    
