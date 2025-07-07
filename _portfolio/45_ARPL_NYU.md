@@ -14,3 +14,4 @@ location: "New York, USA"
 >Developed a model to regress point maps directly from RGB images for unstructured scene understanding.  
 >Employed error-based metrics and momentum-based keyframe control to optimize frame selection.  
 >Reduced the number of required keyframes while improving reconstruction quality and efficiency.
+ 
