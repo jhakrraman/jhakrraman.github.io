@@ -6,11 +6,10 @@ date1: 09/2024
 date2: 05/2025
 location: "New York, USA"
 ---
-<img src='/images/NYU.png' width=300 height=400><br/>    
+<img src='/images/NYU.png' width=300 height=400><br/>
 
-
->Mentored by Yang Zhou and supervised by Prof. Giuseppe Loianno for the adaptive keyframe selection.          
->Worked on adaptive keyframe selection for scene reconstruction in the dynamic environment.       
->A transformer-based architecture to directly regress point maps from images to predict the scene in an unstructured environment.     
->It uses error-based metric and momentum-based keyframe control for the selection of keyframes for scene reconstruction.   
->It decreased the required keyframes for reconstruction while enhancing the system’s reconstruction performance.   
+>Worked under the mentorship of Yang Zhou and supervision of Prof. Giuseppe Loianno for adaptive keyframe selection.  
+>Focused on scene reconstruction in dynamic environments using a transformer-based architecture.  
+>Designed a model to regress point maps from RGB images to capture unstructured environments.  
+>Used error-based metrics and momentum-based keyframe control for keyframe selection.  
+>Reduced the number of frames needed for reconstruction while improving overall reconstruction quality.
