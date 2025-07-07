@@ -7,7 +7,7 @@ date1: "2024/09"
 date2: "2025/05"
 location: "New York, USA"
 ---
-
+ 
 >Worked under the mentorship of Yang Zhou and the supervision of Prof. Giuseppe Loianno for adaptive keyframe selection.  
 >Focused on scene reconstruction in dynamic environments using a transformer-based architecture.  
 >Developed a model to regress point maps directly from RGB images for unstructured scene understanding.  
