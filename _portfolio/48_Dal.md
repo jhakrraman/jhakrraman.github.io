@@ -6,6 +6,7 @@ date1: 07/2022
 date2: 10/2022
 location: "Halifax, Canada"
 ---
+
 <img src='/images/Dal.jpg' width=300 height=400>
 <img src='/images/Mitacs.jpeg' width=300 height=400><br/>
 
