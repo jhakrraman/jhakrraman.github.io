@@ -1,7 +1,7 @@
 ---
 title: "Research Assistant"
 collection: portfolio
-venue: "Agile Robotics and Perception Lab, New York University "
+venue: "Agile Robotics and Perception Lab, New York University"
 date1: 09/2024
 date2: 05/2025
 location: "New York, USA"
