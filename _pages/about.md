@@ -22,7 +22,7 @@ My research lies at the intersection of **robotics**, **computer vision**, and *
 
 - **Robot perception** in dynamic and unstructured environments
 - **Vision-based decision-making** and **adaptive robot learning**
-- **Autonomous systems**, with a major focus on **autonomous navigation**, and **autonomous driving**  
+- **Autonomous systems**, with a major focus on **autonomous navigation, and driving**  
 - **Learning-based planning and control**  
 
 I am passionate about building autonomous robotic systems capable of real-world perception, interaction, and decision-making.
