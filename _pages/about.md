@@ -27,7 +27,7 @@ Key areas of interest include:
 - **Autonomous Systems**, with an emphasis on autonomous navigation and driving  
 - **Learning-Based Perception, and Planning** for real-world deployment  
 
-I am passionate about creating **autonomous robotic systems** capable of robust **real-world perception**, **interaction**, and **decision-making**, across diverse tasks and environments.
+I am passionate about creating **autonomous robotic systems** capable of robust **real-world perception**, **learning**, and **decision-making**, across diverse tasks and environments.
 
 ---
 ## Reviewer:
@@ -43,6 +43,7 @@ This Flag counter seemed fun to me. It shows flag counts from January 2024.
 
 
 Last updated: July 2025
+
 
 
 
