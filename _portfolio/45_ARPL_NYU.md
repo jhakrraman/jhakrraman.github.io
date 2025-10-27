@@ -12,4 +12,4 @@ location: "New York, USA"
 >Focused on scene reconstruction in dynamic environments using a transformer-based architecture.  
 >Developed a model to regress point maps directly from RGB images for unstructured scene understanding.  
 >Employed error-based metrics and momentum-based keyframe control to optimize frame selection.  
->Reduced the number of required keyframes while improving reconstruction quality and efficiency.
+>Reduced the number of required keyframes while improving reconstruction quality and efficiency on the drone.
