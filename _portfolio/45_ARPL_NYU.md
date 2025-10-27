@@ -2,9 +2,9 @@
 title: "Research Assistant"
 collection: portfolio
 venue: "Agile Robotics and Perception Lab, New York University"
-excerpt: "Worked on adaptive keyframe selection for dynamic scene reconstruction using transformer-based architecture.<br/> <img src=\"/images/NYU.png\" width=\"300\" height=\"400\" />"
+excerpt: "Worked on adaptive keyframe selection for dynamic scene reconstruction using transformer-based architecture.<br/> <img src=\"/images/NYU.png\" width=\"300\" height=\"400\" /> <img src=\"/images/ARPL.png\" width=\"300\" height=\"400\" />"
 date1: "2024/09"
-date2: "2025/05"
+date2: "2025/06"
 location: "New York, USA"
 ---
  
