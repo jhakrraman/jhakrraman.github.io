@@ -2,7 +2,7 @@
 title: "Research Associate"
 collection: portfolio
 venue: "Computational Imaging Lab, IIT Madras"
-excerpt: "Developed cross-attention network for low-light image enhancement using thermal guidance for autonomous systems.<br/> <img src=\"/images/iitm.jpeg\" width=\"300\" height=\"400\" /> <img src=\"/images/IITM.png\" width=\"300\" height=\"400\" />"
+excerpt: "Developed a cross-attention network for low-light image enhancement using thermal guidance for autonomous systems.<br/> <img src=\"/images/iitm.jpeg\" width=\"300\" height=\"400\" /> <img src=\"/images/IITM.png\" width=\"300\" height=\"400\" />"
 date1: "08/2023"
 date2: "06/2024"
 location: "Chennai, India"
