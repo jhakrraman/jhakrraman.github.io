@@ -1,5 +1,5 @@
 ---
-title: "EE5178, Modern Computer Vision"
+title: "EE 5178, Modern Computer Vision"
 type: "Graduate Course"
 collection: teaching
 permalink: /teaching/mcv_iitm
