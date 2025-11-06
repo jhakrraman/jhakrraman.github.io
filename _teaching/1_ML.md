@@ -11,4 +11,4 @@ location: "Pune, India"
 
 >Assisted students and answered questions on Sodl.  
 >Graded assignments and exams for machine learning.  
->Discusses and Mentored students for their course projects and hackathons. 
+>Discussed and mentored students for their course projects and hackathons. 
