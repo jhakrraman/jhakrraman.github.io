@@ -4,8 +4,8 @@ collection: publications
 permalink: /publication/RTX_Net_Low_Light_Image_Enhancement
 date: 2025-08-18
 venue: 'International Conference on Image Processing (ICIP)'
-paperurl: 'https://sites.google.com/view/rt-xnet/home'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/11084466' 
 code: 'https://github.com/jhakrraman/rt-xnet'
-web: 'https://ieeexplore.ieee.org/abstract/document/11084466' 
+web: 'https://sites.google.com/view/rt-xnet/home' 
 citation: 'Raman Jha, Adithya Lenka, Mani Ramanagopal, Aswin Sankaranarayanan, Kaushik Mitra'
 ---
