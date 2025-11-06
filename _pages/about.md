@@ -23,7 +23,7 @@ My research lies at the intersection of **robotics**, **computer vision**, and *
 Key areas of interest include:
 
 - **Robot Perception** in dynamic and unstructured environments  
-- **Vision-Based Decision-Making** and adaptive robot learning  
+- **Vision-Based Decision-Making** and **adaptive robot learning**  
 - **Autonomous Systems**, with an emphasis on autonomous navigation and driving  
 - **Learning-Based Planning, and Control** for real-world deployment  
 
@@ -42,7 +42,8 @@ This Flag counter seemed fun to me. It shows flag counts from January 2024.
 </div>
 
 
-Last updated: July 2025
+Last updated: September 2025
+
 
 
 
