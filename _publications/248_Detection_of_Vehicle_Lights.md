@@ -8,6 +8,3 @@ paperurl: 'https://ieeexplore.ieee.org/abstract/document/10392419'
 code: 'https://github.com/jhakrraman/Detection-of-vehicle-lights'
 citation: 'Raman K Jha'
 ---
-
-
-
