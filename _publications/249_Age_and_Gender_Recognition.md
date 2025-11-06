@@ -5,8 +5,8 @@ permalink: /publication/Age_and_Gender_Recognition
 date: 2023-06-01
 venue: 'International Journal of Advanced Research in Science, Communication and Technology (IJARSCT)'
 paperurl: 'https://ijarsct.co.in/Paper10896.pdf'
-code: 'https://github.com/jhakrraman/Detection-of-vehicle-lights'
 citation: 'Raman K Jha, Deepak Kumar, S Kumar, Arsad Ali, P Patil'
 ---
+
 
 
