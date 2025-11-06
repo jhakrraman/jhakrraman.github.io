@@ -1,7 +1,7 @@
 ---
 title: "RT-X Net: RGB-Thermal Cross Attention Network for Low-Light Image Enhancement"
 collection: publications
-permalink: /publication/RTX_Net
+permalink: /publication/RTX_Net_Low_Light_Image_Enhancement
 date: 2025-08-18
 venue: 'International Conference on Image Processing (ICIP)'
 paperurl: 'https://sites.google.com/view/rt-xnet/home'
