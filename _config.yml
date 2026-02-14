@@ -12,7 +12,7 @@ locale                   : "en-US"
 title                    : "Raman Jha"
 title_separator          : "-"
 name                     : &name ""
-description              : "Research Associate at IIT Madras"
+description              : "Master's in Computer Engineering, New York University"
 url                      : "https://jhakrraman.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jhakrraman/jhakrraman.github.io"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.jpeg"
   name             : "Raman Jha"
   pronouns         :   
-  bio              : "Researcher"
+  bio              : "Robotics Researcher"
   location         : "New York, USA"
   employer         : 
   uri              : # URL
@@ -45,7 +45,7 @@ author:
   codepen          : # Username
   dribbble         : # Username
   github           : "jhakrraman"
-  kaggle           :   
+  kaggle           : "thestranger7"
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
