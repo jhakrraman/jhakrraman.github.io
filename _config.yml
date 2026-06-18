@@ -123,7 +123,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &twitter "jhakrraman"
 facebook:
   username               :
   app_id                 :
