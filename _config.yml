@@ -131,10 +131,17 @@ facebook:
 og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
+
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : "Person"
+  name                   : "Raman Jha"
+  links:
+    - "https://scholar.google.com/citations?user=fhHXxfMAAAAJ&hl=en"
+    - "https://github.com/jhakrraman"
+    - "https://www.linkedin.com/in/jhakrraman"
+    - "https://twitter.com/jhakrraman"
+    - "https://orcid.org/0000-0001-8392-8792"
+    - "https://www.kaggle.com/thestranger7"
 
 
 # Analytics
