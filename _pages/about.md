@@ -31,7 +31,7 @@ I am passionate about creating **autonomous robotic systems** capable of robust 
 
 ---
 ## Reviewer:
-NeurIPS 2025, BMVC 2025, BMVC 2024, ICLR 2024, ICVGIP 2023
+BMVC 2026, NeurIPS 2025, BMVC 2025, BMVC 2024, ICLR 2024, ICVGIP 2023
 
 This Flag counter seemed fun to me. It shows flag counts from January 2024.    
 
@@ -42,7 +42,7 @@ This Flag counter seemed fun to me. It shows flag counts from January 2024.
 </div>
 
 
-Last updated: September 2025
+Last updated: February 2026
 
 
 
