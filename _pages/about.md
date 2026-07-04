@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Robotics PhD student at [Texas A & M University (TAMU)](https://www.nyu.edu/) working under [Prof. Varun Murali](https://varunmurali1.github.io/). I work on robot perception, learning, and planning for autonomous systems.
 
-Before joining TAMU, I completed my Master's in Computer Engineering from [New York University (NYU)](https://www.nyu.edu/) advised by Prof. [Prof. Yi Fang](https://nyuad.nyu.edu/en/academics/divisions/engineering/faculty/yi-fang.html). I was also fortunate to work under [Prof. Giuseppe Loianno](https://www2.eecs.berkeley.edu/Faculty/Homepages/loiannog.html), and [Prof. Wanxin Xin](https://search.asu.edu/profile/4837210) during this time. Previously in my time at 
+Before joining TAMU, I completed my Master's in Computer Engineering from [New York University (NYU)](https://www.nyu.edu/) advised by Prof. [Prof. Yi Fang](https://nyuad.nyu.edu/en/academics/divisions/engineering/faculty/yi-fang.html). I was also fortunate to work under [Prof. Giuseppe Loianno](https://www2.eecs.berkeley.edu/Faculty/Homepages/loiannog.html), and [Prof. Wanxin Xin](https://search.asu.edu/profile/4837210) during this time. Previously, in my time at [IIT Madras](https://www.iitm.ac.in/), I was advised by [Prof. Kaushik Mitra](https://www.ee.iitm.ac.in/kmitra/) and [Prof. Aswin C. Sankaranarayanan](https://www.ece.cmu.edu/directory/bios/sankaranarayanan-aswin.html).
 <!-- I am a master's student at [New York University (NYU)](https://www.nyu.edu/), pursuing an M.S. in Computer Engineering. I am interested in Robot Perception and Learning.
 I am currently working on my MS thesis at the [Embodied AI & Robotics Lab](https://nyuair.github.io/website/) under [Prof. Yi Fang](https://nyuad.nyu.edu/en/academics/divisions/engineering/faculty/yi-fang.html), focusing on research in robot navigation in dark environments. 
 Previously, I served as a Graduate Research Assistant under [Prof. Giuseppe Loianno](https://www2.eecs.berkeley.edu/Faculty/Homepages/loiannog.html) at the [Agile Robotics and Perception Lab (ARPL)](https://wp.nyu.edu/arpl/), where I worked on 3D scene reconstruction in a dynamic environment for drones using RGBD images. -->
@@ -21,16 +21,7 @@ Before joining NYU, I was a Research Associate at the [Computational Imaging Lab
 
 ## Research Interests
 
-My research lies at the intersection of **robotics**, **computer vision**, and **reinforcement learning**, with a focus on building autonomous systems that can **perceive, learn, and act** reliably in complex, dynamic environments.  
-
-Key areas of interest include:
-
-- **Robot Perception** in dynamic and unstructured environments  
-- **Vision-Based Decision-Making** and **adaptive robot learning**  
-- **Autonomous Systems**, with an emphasis on autonomous navigation and driving  
-- **Learning-Based Planning, and Control** for real-world deployment  
-
-I am passionate about creating **autonomous robotic systems** capable of robust **real-world perception**, **learning**, and **decision-making**, across diverse tasks and environments.
+My research lies at the intersection of **robotics**, **computer vision**, and **reinforcement learning**, with a focus on building autonomous systems that can **perceive, understand, and act** reliably in complex, dynamic environments. My work centers on **robot perception and 3D scene understanding** — spanning **semantic mapping**, **SLAM**, and **scalable 3D reconstruction** in dynamic and unstructured settings — with a particular emphasis on **quantifying and reducing uncertainty** in these spatial representations so they can directly inform **robust planning and decision-making**. Building on this, I am interested in tightly coupling **perception, learning, and planning** for **autonomous navigation**, and in **learning-based planning and control** methods that hold up in **real-world deployment**. Ultimately, my goal is to develop **autonomous robotic systems** that remain robust across diverse tasks, platforms, and environments.
 
 ---
 ## Reviewer:
