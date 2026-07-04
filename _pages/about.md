@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Robotics PhD student at [Texas A & M University (TAMU)](https://www.tamu.edu/) working under [Prof. Varun Murali](https://varunmurali1.github.io/). I work on robot perception, learning, and planning for autonomous systems.
+I am an incoming Robotics PhD student at [Texas A & M University (TAMU)](https://www.tamu.edu/), working under [Prof. Varun Murali](https://varunmurali1.github.io/). I work on robot perception, learning, and planning for autonomous systems.
 
 Before joining TAMU, I completed my Master's in Computer Engineering from [New York University (NYU)](https://www.nyu.edu/) advised by Prof. [Prof. Yi Fang](https://nyuad.nyu.edu/en/academics/divisions/engineering/faculty/yi-fang.html) for my MS thesis on semantically consistent SLAM. I was also fortunate to work under [Prof. Giuseppe Loianno](https://www2.eecs.berkeley.edu/Faculty/Homepages/loiannog.html) for dynamic scene reconstruction, and [Prof. Wanxin Xin](https://search.asu.edu/profile/4837210) during this time. Previously, in my time at [IIT Madras](https://www.iitm.ac.in/), I worked on low-light image enhancement and restoration for autonomous systems, and was supervised by [Prof. Kaushik Mitra](https://www.ee.iitm.ac.in/kmitra/) and [Prof. Aswin C. Sankaranarayanan](https://www.ece.cmu.edu/directory/bios/sankaranarayanan-aswin.html).
 
