@@ -9,6 +9,6 @@ date2: 2023-05-15
 location: "Pune, India"
 ---
 
-> Assisted students with paper readings, research critiques, and developing effective research presentation skills.
-> Mentored students through structured project guidance, including proposals and feasibility studies.   
-> Evaluated weighted presentations, peer-review assignments, and initial and final project reports.
+> Graded student assignments, projects, and exams for the machine learning course.   
+> Held office hours and assisted students with their homework, projects, and hackathons.   
+> Assisted students and answered their questions on Sodl about reports and final projects.
