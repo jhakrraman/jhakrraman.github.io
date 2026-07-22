@@ -10,5 +10,5 @@ location: "Pune, India"
 ---
 
 > Assisted students with paper readings, research critiques, and developing effective research presentation skills.
-> Mentored students through structured project guidance, including proposals and feasibility studies.
+> Mentored students through structured project guidance, including proposals and feasibility studies.   
 > Evaluated weighted presentations, peer-review assignments, and initial and final project reports.
