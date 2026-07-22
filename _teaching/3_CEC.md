@@ -9,6 +9,6 @@ date2: 2025-05-15
 location: "New York, USA"
 ---
 
->Assisted students with their homework, assignments, and in-class doubts on Python programming.  
->Held office hours and guided students in their course homework and quizzes.    
->Graded homeworks, quizzes, and midterms for Chemical Engineering Computation on Brightspace.   
+> Assisted students with their homework, assignments, and in-class doubts on Python programming.  
+> Held office hours and guided students through their mini projects and final course projects.   
+> Graded homework, quizzes, assignments, and midterms for Chemical Engineering Computation on Brightspace.
