@@ -9,7 +9,6 @@ date2: 2024-05-20
 location: "Chennai, India"
 ---
 
->Conducted tutorial classes on the basics of programming and deep learning.   
->Held office hours and answered questions on Moodle.  
->Evaluated assignments and projects for modern computer vision.    
->Discussed and Mentored students for their course projects, competitions, and hackathons.   
+> Conducted tutorial classes on the basics of programming and deep learning for students.   
+> Evaluated student assignments and projects for the computer vision course through Moodle.   
+> Mentored students on their course projects, competitions, and hackathon participation.
