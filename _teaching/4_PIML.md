@@ -9,7 +9,6 @@ date2: 2025-05-15
 location: "New York, USA"    
 ---
 
->Mentored students with their homework, quizzes, and projects for the course.   
->Evaluated assignments, quizzes, and midterms on Brightspace.  
->Held office hours and tutorial sessions for the students in Physics-Informed Machine Learning.      
->Guided students with their doubts regarding the class materials and problems on Piazza.   
+> Mentored students with their homework, quizzes, and projects, and addressed doubts on Piazza.   
+> Held office hours and tutorial sessions for the students in Physics-Informed Machine Learning.   
+> Evaluated student homework, quizzes, assignments, and midterms for the course on Brightspace.
