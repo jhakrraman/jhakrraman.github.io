@@ -8,7 +8,7 @@ date2: "06/2024"
 location: "Chennai, India"
 ---
 
->Worked as a Research Associate at Computational Imaging Lab, IIT Madras, supervised by Prof. Kaushik Mitra, and closely collaborated with Prof. Aswin Sankaranarayanan.  
+>Worked as a Research Associate at the Computational Imaging Lab, IIT Madras, supervised by Prof. Kaushik Mitra, and closely collaborated with Prof. Aswin Sankaranarayanan.  
 >Developed a cross-attention network for low-light image enhancement and restoration for autonomous systems.  
 >Used thermal images as guidance for RGB inputs to boost the enhancement model's performance.  
 >Collected and presented the real-world V-TIEE dataset consisting of 50 RGB–thermal image pairs.  
