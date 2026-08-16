@@ -2,7 +2,7 @@
 title: "Founding Machine Learning Intern"
 collection: portfolio
 venue: "Seisei.ai"
-excerpt: "Worked on video transformation using Generative AI technologies with face landmark detection and voice enhancement.<br/> <img src=\"/images/seisei_ai.jpg\" width=\"300\" height=\"400\" />"
+excerpt: "Worked on automated video transformation, visual face dubbing, and voice conversion using Generative AI.<br/> <img src=\"/images/seisei_ai.jpg\" width=\"300\" height=\"400\" />"
 date1: "04/2023"
 date2: "06/2023"
 location: "Jaipur, India"
