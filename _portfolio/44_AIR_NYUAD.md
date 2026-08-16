@@ -2,7 +2,7 @@
 title: "Research Assistant(MS Thesis)"
 collection: portfolio
 venue: "Embodied AI and Robotics Lab (AIR), New York University"
-excerpt: "Worked on consistent semantic mapping for outdoor scenes using Gaussian-splatting architecture.<br/> <img src=\"/images/AiRL.jpeg\" width=\"300\" height=\"400\" /> <img src=\"/images/NYUAD.png\" width=\"300\" height=\"400\" />"
+excerpt: "Worked on consistent semantic mapping to tackle semantic ghosts and occlusion leakage for outdoor scenes.<br/> <img src=\"/images/AiRL.jpeg\" width=\"300\" height=\"400\" /> <img src=\"/images/NYUAD.png\" width=\"300\" height=\"400\" />"
 date1: "2025/08"
 date2: "2026/05"
 location: "New York, USA"
