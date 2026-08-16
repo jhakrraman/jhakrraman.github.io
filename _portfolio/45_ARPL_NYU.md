@@ -8,8 +8,8 @@ date2: "2025/06"
 location: "New York, USA"
 ---
  
-> Worked under the mentorship of Yang Zhou and the supervision of Prof. Giuseppe Loianno on adaptive keyframe selection.
-> Worked on adaptive keyframe selection for scene reconstruction in dynamic environments.
-> Developed a Transformer-based architecture to regress 3D point maps directly from 2D images.
-> Optimized keyframe selection by implementing an error-based metric and momentum-based keyframe control.
-> Reduced the required number of keyframes by 5% while improving the system’s reconstruction on a drone.
+> Worked under the mentorship of Yang Zhou and the supervision of Prof. Giuseppe Loianno on adaptive keyframe selection.    
+> Worked on adaptive keyframe selection for scene reconstruction in dynamic environments.     
+> Developed a Transformer-based architecture to regress 3D point maps directly from 2D images.     
+> Optimized keyframe selection by implementing an error-based metric and momentum-based keyframe control.     
+> Reduced the required number of keyframes by 5% while improving the system’s reconstruction on a drone.     
