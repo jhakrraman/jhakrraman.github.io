@@ -19,10 +19,7 @@ Before joining NYU, I was a Research Associate at the [Computational Imaging Lab
 
 My research lies at the intersection of robotics, computer vision, and robot learning, with a focus on coupling perception and planning in dynamic environments. I am particularly interested in quantifying and reducing uncertainty in semantic maps so that perception can reliably inform planning and decision-making for autonomous navigation. My long-term goal is to build autonomous systems that perceive, map, and act robustly across diverse tasks, platforms, and environments.
 
-## Reviewer:
-BMVC 2026, NeurIPS 2025, BMVC 2025, ICLR 2024, BMVC 2024, ICVGIP 2023
-
-This Flag counter seemed fun to me. It shows flag counts from January 2024.    
+I am always keen to collaborate and work on new and innovative research ideas. If something catches your interest, reach out, I would be happy to chat! This Flag counter seemed fun to me. It shows flag counts from January 2024.    
 
 <div>
   <a href="https://info.flagcounter.com/FhE2">
