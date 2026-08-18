@@ -2,7 +2,7 @@
 title: "Mitacs Globalink Research Intern"
 collection: portfolio
 venue: "Dalhousie University"
-excerpt: "Worked on health variable classification model using a variational autoencoder and RNN on longitudinal aging data.<br/> <img src=\"/images/Dal.jpg\" width=\"300\" height=\"400\" /> <img src=\"/images/dal.png\" width=\"300\" height=\"400\" />"
+excerpt: "Worked on health variable classification model using a variational autoencoder and RNN on longitudinal aging data.<br/> <img src=\"/images/Mitacs/Dal.jpg\" width=\"300\" height=\"400\" /> <img src=\"/images/Mitacs/dal.png\" width=\"300\" height=\"400\" />"
 date1: "07/2022"
 date2: "10/2022"
 location: "Halifax, Canada"
