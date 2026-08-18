@@ -2,7 +2,7 @@
 title: "Applied Research Fellow"
 collection: portfolio
 venue: "Centre of Visual Information Technology Lab, IIIT Hyderabad"
-excerpt: "Developed a vehicle light detection and classification system for the Indian Driving Dataset. <br/> <img src=\"/images/iiith.jpg\" width=\"300\" height=\"400\" /> <img src=\"/images/IIITH.png\" width=\"300\" height=\"400\" />"
+excerpt: "Developed a vehicle light detection and classification system for the Indian Driving Dataset. <br/> <img src=\"/images/IIITH/iiith.jpg\" width=\"300\" height=\"400\" /> <img src=\"/images/IIITH/IIITH.png\" width=\"300\" height=\"400\" />"
 date1: "01/2022"
 date2: "06/2022"
 location: "Hyderabad, India"
