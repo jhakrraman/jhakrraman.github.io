@@ -12,7 +12,7 @@ locale                   : "en-US"
 title                    : "Raman Jha"
 title_separator          : "-"
 name                     : &name "Raman Jha"
-description              : "Raman Jha: Robotics researcher. PhD from TAMU, and M.S. from NYU, focused on robot perception, learning, and planning for autonomous systems."
+description              : "Raman Jha: Robotics researcher. PhD from TAMU and M.S. from NYU, focused on robot perception, learning, and planning for autonomous systems."
 url                      : "https://jhakrraman.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jhakrraman/jhakrraman.github.io"
@@ -29,7 +29,7 @@ author:
   location         : "Texas, USA"
   employer         : 
   uri              : # URL
-  email            : "jharaman400@gmail.com" 
+  email            : "ramanjha@tamu.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
