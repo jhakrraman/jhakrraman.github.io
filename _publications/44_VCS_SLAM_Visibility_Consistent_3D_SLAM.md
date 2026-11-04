@@ -1,5 +1,5 @@
 ---
-title: "Adaptive Keyframe Selection for Scalable 3D Scene Reconstruction in Dynamic Environments"
+title: "VCS-SLAM: Visibility-Consistent Semantic Fusion for 3D Gaussian SLAM"
 collection: publications
 permalink: /publication/VCS_SLAM
 date: 2026-10-24
