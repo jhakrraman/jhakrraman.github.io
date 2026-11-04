@@ -1,4 +1,3 @@
-
 ---
 title: "Adaptive Keyframe Selection for Scalable 3D Scene Reconstruction in Dynamic Environments"
 collection: publications
